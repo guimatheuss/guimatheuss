@@ -1,11 +1,10 @@
 # Guilherme Matheus Marques Pereira 📌
 
-Olá, tudo bem? Meu nome é **Guilherme**, tenho 25 anos (30/05/1998), sou Cristão e resido em Curitiba/PR, em um bairro humilde chamado Sitio Cercado.
-Sempre tive o contato com a tecnologia em computadores e consoles, porém nunca na programação, designer ou algo do tipo, sempre jogando, desde pequeno. Na àrea profissional eu sempre trabalhei em chão de fábrica e nesse fim de ano de 2023 despertou a enorme vontade de estudar tecnologia e desde então venho estudando e desenvolvendo esse brevissimo resumo sobre mim, espero que cative mais curiosidades sobre a minha pessoa, o resto eu deixo para a entrevista. 
-
-
-## Objetivos 🎯
-Aprender cada dia mais sobre tecnologia e suas maravilhas para poder ingressar no mercado de trabalho em prol da minha evolução como um profissional na àrea. Espero poder fazer a diferença para a empresa contratante.
+🕮 Atualmente estudando JavaScript/ReactS/NodeJS!
+💻 Futuro Desenvolvedor.
+👩‍💻 Certificados via: DIO / UDEMY
+📧 gui.matheuss@outlook.com
+📞 +55 (41) 99934-7321
 
 
 ## Venha se conectar comigo 🔗
