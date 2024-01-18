@@ -1,6 +1,6 @@
 # Guilherme Matheus Marques Pereira 📌
 
-🕮 Atualmente estudando JavaScript/ReactS/NodeJS!
+🕮 Atualmente estudando JavaScript/ReactS/NodeJS! <br>
 💻 Futuro Desenvolvedor.
 👩‍💻 Certificados via: DIO / UDEMY
 📧 gui.matheuss@outlook.com
