@@ -1,7 +1,7 @@
 # Guilherme Matheus Marques Pereira 📌
 
 🕮 Atualmente estudando JavaScript/ReactS/NodeJS! <br>
-💻 Futuro Desenvolvedor. <br>
+💻 Desenvolvedor Java/JavaScript. <br>
 👩‍💻 Certificados via: DIO / UDEMY <br> 
 📧 gui.matheuss@outlook.com <br>
 📞 +55 (41) 99934-7321
@@ -12,7 +12,11 @@
 
 ## Linguagens de Programação que estou estudando 💻
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+
+## Libs 📚 
+
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guimatheuss&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guimatheuss&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
